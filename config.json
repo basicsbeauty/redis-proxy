@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "recordTimeToExpireInSec": 1800,
+  "maxRecordCount": 10000
+  "redisMasterUrl": ""
+}
